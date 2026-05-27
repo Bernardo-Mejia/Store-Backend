@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37301.10 d17.14
+VisualStudioVersion = 17.14.37301.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXStore.Blazor.Server", "DXStore\DXStore.Blazor.Server\DXStore.Blazor.Server.csproj", "{5A1A9361-8890-4D6E-82A2-389FCEF99A77}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXStore.WebApi", "DXStore\DXStore.WebApi\DXStore.WebApi.csproj", "{5A1348F6-3DA9-4404-9BA2-DDBB9ECCC73D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXStore.Win", "DXStore\DXStore.Win\DXStore.Win.csproj", "{AA14154B-0561-4A2F-A6E5-DF4B954ED529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreAPI", "APIStore\StoreAPI\StoreAPI.csproj", "{4F566F26-75EC-4B15-B35F-C185EE6F7EFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,6 +44,12 @@ Global
 		{AA14154B-0561-4A2F-A6E5-DF4B954ED529}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
 		{AA14154B-0561-4A2F-A6E5-DF4B954ED529}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA14154B-0561-4A2F-A6E5-DF4B954ED529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F566F26-75EC-4B15-B35F-C185EE6F7EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F566F26-75EC-4B15-B35F-C185EE6F7EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F566F26-75EC-4B15-B35F-C185EE6F7EFB}.EasyTest|Any CPU.ActiveCfg = Release|Any CPU
+		{4F566F26-75EC-4B15-B35F-C185EE6F7EFB}.EasyTest|Any CPU.Build.0 = Release|Any CPU
+		{4F566F26-75EC-4B15-B35F-C185EE6F7EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F566F26-75EC-4B15-B35F-C185EE6F7EFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
