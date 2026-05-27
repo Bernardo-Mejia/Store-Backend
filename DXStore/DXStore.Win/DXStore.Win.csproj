@@ -28,26 +28,45 @@
     <EmbeddedResource Include="Images\ExpressAppLogo.png" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.ExpressApp" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Chart.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.CodeAnalysis" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Dashboards.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.FileAttachment.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Notifications.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Office.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.PivotGrid.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.ReportsV2.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Scheduler.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Security.Xpo" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.TreeListEditors.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Validation.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Win" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Win.Design" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Xpo" Version="25.2.*" />
-    <PackageReference Include="DevExpress.Persistent.Base" Version="25.2.*" />
-    <PackageReference Include="DevExpress.Persistent.BaseImpl.Xpo" Version="25.2.*" />
-    <PackageReference Include="DevExpress.RichEdit.Export" Version="25.2.*" />
-    <PackageReference Include="DevExpress.Win.Design" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Chart.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Chart.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.CodeAnalysis" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Dashboards.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Dashboards.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.FileAttachment.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.FileAttachment.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Notifications.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Notifications.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Office.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Office.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.PivotGrid.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.PivotGrid.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.ReportsV2.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.ReportsV2.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Scheduler.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Scheduler.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Security.Xpo" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Security.Xpo.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.TreeListEditors.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.TreeListEditors.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Validation.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Validation.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Win" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Win.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Win.Design" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Win.Design.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Xpo" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Xpo.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.Persistent.Base" Version="25.2.*" />
+	<PackageReference Include="DevExpress.Persistent.Base.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.Persistent.BaseImpl.Xpo" Version="25.2.*" />
+	<PackageReference Include="DevExpress.Persistent.BaseImpl.Xpo.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.RichEdit.Export" Version="25.2.*" />
+	<PackageReference Include="DevExpress.RichEdit.Export.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.Win.Design" Version="25.2.*" />
+	<PackageReference Include="DevExpress.Win.Design.es" Version="25.2.*" />
     <PackageReference Include="Npgsql" Version="8.0.7" />
   </ItemGroup>
   <ItemGroup>

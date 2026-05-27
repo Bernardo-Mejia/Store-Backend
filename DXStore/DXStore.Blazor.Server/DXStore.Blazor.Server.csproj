@@ -17,17 +17,17 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.Drawing.Skia" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Blazor" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.CodeAnalysis" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Dashboards.Blazor" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.FileAttachment.Blazor" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Notifications.Blazor" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Office.Blazor" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.ReportsV2.Blazor" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Scheduler.Blazor" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Security.Xpo" Version="25.2.*" />
-    <PackageReference Include="DevExpress.ExpressApp.Validation.Blazor" Version="25.2.*" />
+	<PackageReference Include="DevExpress.Drawing.Skia.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Blazor.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.CodeAnalysis" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Dashboards.Blazor.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.FileAttachment.Blazor.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Notifications.Blazor.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Office.Blazor.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.ReportsV2.Blazor.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Scheduler.Blazor.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Security.Xpo.es" Version="25.2.*" />
+	<PackageReference Include="DevExpress.ExpressApp.Validation.Blazor.es" Version="25.2.*" />
     <PackageReference Include="Npgsql" Version="8.0.7" />
   </ItemGroup>
   <ItemGroup>
