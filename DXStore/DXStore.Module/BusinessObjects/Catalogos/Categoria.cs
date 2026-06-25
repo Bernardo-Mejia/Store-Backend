@@ -11,6 +11,7 @@ namespace DXStore.Module.BusinessObjects.Catalogos
     [DefaultClassOptions]
     [NavigationItem("Catálogos")]
     [ImageName("ModelEditor_Action_Schema")]
+    [XafDisplayName("Categorías")]
     public class Categoria : XPObject
     {
         public Categoria() : base()
