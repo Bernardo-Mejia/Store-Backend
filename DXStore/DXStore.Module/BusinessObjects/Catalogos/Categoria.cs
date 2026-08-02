@@ -10,7 +10,7 @@ namespace DXStore.Module.BusinessObjects.Catalogos
 {
     [DefaultClassOptions]
     [ImageName("ModelEditor_Action_Schema")]
-    [XafDisplayName("Categorías de Productos")]
+    [XafDisplayName("Categorías de Productos.")]
     [NavigationItem("Catálogos")]
     public class Categoria : XPObject
     {
